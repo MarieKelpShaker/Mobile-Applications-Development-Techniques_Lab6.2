@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab4_RimanteK</string>
+
+    <string name="menu_add_note">Add Note</string>
+    <string name="menu_delete_note">Delete Note</string>
+    <string name="menu_switch_storage">Switch Storage</string>
+    <string name="switched_to">Switched to %1$s</string>
+
+    <string name="note_title_label">Note Title:</string>
+    <string name="note_title_hint">Enter note title</string>
+    <string name="note_content_label">Note Content:</string>
+    <string name="note_content_hint">Enter note content</string>
+    <string name="save_button">Save Note</string>
+    <string name="empty_warning">Please fill in both fields.</string>
+    <string name="note_saved_message">Note saved successfully!</string>
+    <string name="save_error_message">Error saving note.</string>
+
+    <string name="delete_note_title">Delete a note</string>
+    <string name="delete_button">Delete Selected</string>
+    <string name="no_notes_found">No notes found.</string>
+    <string name="no_notes_left">All notes deleted.</string>
+    <string name="select_note_warning">Please select a note to delete.</string>
+    <string name="note_deleted_message">Note deleted.</string>
+    <string name="delete_error_message">Could not delete note.</string>
+
+    <string name="add_note_title">Add Note • %1$s</string>
+
+    <string name="backend_files">Files</string>
+    <string name="backend_prefs">SharedPreferences</string>
+
+    <string name="empty_title_warning">Please enter a note title.</string>
+    <string name="empty_content_warning">Please enter note content.</string>
+
+</resources>

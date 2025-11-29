@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.lab6_lab4_rimantek.MainFlowUiTest" tests="3" failures="0" errors="0" skipped="0" time="24.168" timestamp="2025-11-29T16:26:12" hostname="localhost">
+  <properties>
+    <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="addNote_showsInList_andCanBeOpened" classname="com.example.lab6_lab4_rimantek.MainFlowUiTest" time="11.327" />
+  <testcase name="mainActivity_showsEmptyViewWhenNoNotes" classname="com.example.lab6_lab4_rimantek.MainFlowUiTest" time="3.168" />
+  <testcase name="deleteNote_removesFromMainList" classname="com.example.lab6_lab4_rimantek.MainFlowUiTest" time="5.962" />
+</testsuite>

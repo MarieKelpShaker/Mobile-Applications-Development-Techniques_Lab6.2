@@ -1,0 +1,670 @@
+11-29 18:25:47.212 26623 26638 I TestRunner: started: addNote_showsInList_andCanBeOpened(com.example.lab6_lab4_rimantek.MainFlowUiTest)
+11-29 18:25:47.265 26623 26638 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-29 18:25:47.282 26623 26638 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+11-29 18:25:47.330   831  2037 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e1fcae27 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:25:47.393   654   676 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:47.436  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+11-29 18:25:47.446  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+11-29 18:25:47.452  1299  1299 W SplitSelectStateCtor: Missing session instanceIds
+11-29 18:25:47.452  1299  1299 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+11-29 18:25:47.491  1299  1299 D RecentsView: onTaskDisplayChanged: 95, new displayId = 0
+11-29 18:25:47.492  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:47.567  1299  1299 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+11-29 18:25:47.660 26623 26623 D DesktopExperienceFlags: Toggle override initialized to: false
+11-29 18:25:47.672 26623 26646 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+11-29 18:25:47.677 26623 26646 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+11-29 18:25:47.703 26623 26623 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+11-29 18:25:47.723 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: PRE_ON_CREATE
+11-29 18:25:47.724 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-29 18:25:47.732  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:47.743 26623 26646 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-29 18:25:47.751 26623 26646 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-29 18:25:47.832 26623 26623 D CompatChangeReporter: Compat change id reported: 377864165; UID 10244; state: ENABLED
+11-29 18:25:47.832 26623 26623 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+11-29 18:25:47.892 26623 26623 I 6_lab4_rimantek: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+11-29 18:25:47.967  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:48.028   831  3293 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-29 18:25:48.028   831  3293 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-29 18:25:48.072 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: CREATED
+11-29 18:25:48.073 26623 26623 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:48.090 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: STARTED
+11-29 18:25:48.091 26623 26623 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:48.104 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: RESUMED
+11-29 18:25:48.104 26623 26623 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:48.206 26623 26623 W HWUI    : Unknown dataspace 0
+11-29 18:25:48.275  1299  1299 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:25:48.277 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@beec85f
+11-29 18:25:48.285  1299  1299 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+11-29 18:25:48.287  1133  1439 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@70ae075
+11-29 18:25:48.287 26623 26623 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:25:48.313 26623 26623 I HWUI    : Using FreeType backend (prop=Auto)
+11-29 18:25:48.410   654   794 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10244 pid=0
+11-29 18:25:48.410   654   794 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10244 => denied (440 us)
+11-29 18:25:48.410   654   794 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10244 pid=0
+11-29 18:25:48.410   654   794 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10244 => denied (205 us)
+11-29 18:25:48.410   654   794 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10244 pid=0
+11-29 18:25:48.410   654   794 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10244 => denied (305 us)
+11-29 18:25:48.598   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:25:48.724   831  1655 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10244 pid=0
+11-29 18:25:48.724   831  1655 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10244 => denied (181 us)
+11-29 18:25:48.725   831  1655 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10244 pid=0
+11-29 18:25:48.726   831  1655 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10244 => denied (1102 us)
+11-29 18:25:48.726   831  1655 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10244 pid=0
+11-29 18:25:48.726   831  1655 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10244 => denied (124 us)
+11-29 18:25:48.732   831   867 I ActivityTaskManager: Displayed com.example.lab6_lab4_rimantek/.MainActivity for user 0: +1s431ms
+11-29 18:25:48.813  1506  1521 I FontLog : (REDACTED) Received query %s, URI %s
+11-29 18:25:48.816  1506  1521 I FontLog : (REDACTED) Query [%s] resolved to %s
+11-29 18:25:48.848  1506  1521 I FontLog : (REDACTED) Fetch %s end status %s
+11-29 18:25:48.879  1506  1521 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+11-29 18:25:48.901  1506  1521 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+11-29 18:25:48.916   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:533bb9d9: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:25:48.937   831  1655 I ImeTracker: system_server:5deb038e: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:48.943   831   870 I ImeTracker: system_server:5deb038e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:25:48.943 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:533bb9d9: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:25:48.945 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:25:48.960 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:25:48.968 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:25:48.991 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:49.005  1299  1299 D BaseActivity: Launcher flags updated: [] -[state_started]
+11-29 18:25:49.005  1299  1299 D BaseDepthController: setSurface:
+11-29 18:25:49.005  1299  1299 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+11-29 18:25:49.005  1299  1299 D BaseDepthController: 	mBaseSurface: null
+11-29 18:25:49.008  1299  1299 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+11-29 18:25:49.010 12373 12373 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [lyz->oar, lyz->jwv, lyz->lky, lyz->lyc, lyz->gxm, lyz->fww, lyz->hoq, lyz->jwv, lyz->jwv, lyz->jwv, lyz->jwv, lyz->fzd, lyz->jwv, lyz->jyk, lyz->lxt, lyz->jwv, lyz->jwv, lyz->jwv, lyz->nmo, lyz->jwv, lyz->jwv, lyz->jue, lyz->jwv, lyz->jwv, lyz->jwv, lyz->ldf] takes 36ms
+11-29 18:25:49.025  1299  1299 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+11-29 18:25:49.025  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:6)
+11-29 18:25:49.025  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:2)
+11-29 18:25:49.025  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:32)
+11-29 18:25:49.025  1299  1299 D StateManager: onRepeatStateSetAborted - state: Normal
+11-29 18:25:49.027  1299  1299 D ActivityContext: hideKeyboard:
+11-29 18:25:49.027  1299  1299 D ActivityContext: java.lang.Exception
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at com.android.launcher3.views.ActivityContext.hideKeyboard(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:3)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at com.android.launcher3.Launcher.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:17)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at com.android.launcher3.uioverrides.QuickstepLauncher.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:1)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at com.google.android.apps.nexuslauncher.NexusLauncherActivity.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:1)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.Instrumentation.callActivityOnStop(Instrumentation.java:1757)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.Activity.performStop(Activity.java:9560)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.ActivityThread.callActivityOnStop(ActivityThread.java:6241)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:6221)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.ActivityThread.handleStopActivity(ActivityThread.java:6284)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.servertransaction.StopActivityItem.execute(StopActivityItem.java:43)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2917)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.os.Handler.dispatchMessage(Handler.java:132)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.os.Looper.dispatchMessage(Looper.java:333)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.os.Looper.loopOnce(Looper.java:263)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.os.Looper.loop(Looper.java:367)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at android.app.ActivityThread.main(ActivityThread.java:9227)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at java.lang.reflect.Method.invoke(Native Method)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:566)
+11-29 18:25:49.027  1299  1299 D ActivityContext: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+11-29 18:25:49.027  1299  1299 D ActivityContext: isImeShown: false
+11-29 18:25:49.027  1299  1299 D StatsLog: LAUNCHER_ONSTOP
+11-29 18:25:49.037  1299  1299 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+11-29 18:25:49.384 26623 26627 I 6_lab4_rimantek: Compiler allocated 5200KB to compile void android.view.ViewRootImpl.performTraversals()
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: enableTracing failed. You may need to upgrade your androidx.tracing:tracing version
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: java.lang.NoSuchMethodError: No static method forceEnableAppTracing()V in class Landroidx/tracing/Trace; or its super classes (declaration of 'androidx.tracing.Trace' appears in /data/app/~~yxi4HcWO-PAm4srmrv72bw==/com.example.lab6_lab4_rimantek-0j0AYtm4y5nXtuC7x4UhWg==/base.apk)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.platform.tracing.AndroidXTracer.enableTracing(AndroidXTracer.java:57)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.platform.tracing.Tracing.<init>(Tracing.java:53)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.platform.tracing.Tracing.<clinit>(Tracing.java:49)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule.providesTracing(BaseLayerModule.java:190)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.providesTracing(BaseLayerModule_ProvidesTracingFactory.java:41)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:33)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:11)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:38)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:12)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.DaggerBaseLayerComponent$BaseLayerComponentImpl.idlingResourceRegistry(DaggerBaseLayerComponent.java:279)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.espresso.Espresso.<clinit>(Espresso.java:64)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at com.example.lab6_lab4_rimantek.MainFlowUiTest.addNote_showsInList_andCanBeOpened(MainFlowUiTest.java:77)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at java.lang.reflect.Method.invoke(Native Method)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.internal.runner.junit4.statement.RunBefores.evaluate(RunBefores.java:80)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+11-29 18:25:49.404 26623 26638 E AndroidXTracer: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+11-29 18:25:49.405 26623 26638 E AndroidXTracer: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:59)
+11-29 18:25:49.405 26623 26638 E AndroidXTracer: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:467)
+11-29 18:25:49.405 26623 26638 E AndroidXTracer: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2624)
+11-29 18:25:49.405 26623 26638 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+11-29 18:25:49.533 26623 26623 I ViewInteraction: Performing 'Handle transition between action bar and action bar context.' action on view view.getRootView() to equal view
+11-29 18:25:49.557 26623 26638 I 6_lab4_rimantek: hiddenapi: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/action/Tap; (domain=app) using reflection: allowed
+11-29 18:25:49.564 26623 26623 I ViewInteraction: Performing 'single click' action on view (((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getContentDescription() is "More options") or ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getClass().getName() matches: a string ending with "OverflowMenuButton"))
+11-29 18:25:49.574 26623 26658 I 6_lab4_rimantek: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/internal/platform/reflect/ReflectiveMethod; (domain=app) using reflection: allowed
+11-29 18:25:49.616  1133  1206 D ShellBackPreview: Skipping dispatching onBackCancelled. Start was never dispatched.
+11-29 18:25:49.754   831  1655 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:25:49.832 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@355dde6
+11-29 18:25:50.591  1289  1411 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+11-29 18:25:50.600  1289  1411 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+11-29 18:25:50.666 26623 26623 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() equals string from resource id: <2131755110> [menu_add_note] value: Add Note
+11-29 18:25:50.802   831  1095 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:25:50.806   831  1972 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e1fcae27 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:25:50.820   654   794 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:50.820 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:25:50.829   650   761 D AudioFlinger: mixer(0x728cbd5627d0) throttle end: throttle time(40)
+11-29 18:25:50.840 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: PAUSED
+11-29 18:25:50.840 26623 26623 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:50.870 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: PRE_ON_CREATE
+11-29 18:25:50.870 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:50.951  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:50.987 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: CREATED
+11-29 18:25:50.988 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:50.989 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: STARTED
+11-29 18:25:50.990 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:50.991 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: RESUMED
+11-29 18:25:50.992 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:51.034 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@895b4c0
+11-29 18:25:51.039 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:51.040 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:51.040 26623 26623 D VRI[AddNoteActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:25:51.231   831   867 I ActivityTaskManager: Displayed com.example.lab6_lab4_rimantek/.AddNoteActivity for user 0: +424ms
+11-29 18:25:51.318 26623 26646 D HWUI    : endAllActiveAnimators on 0x7d7d5a02f340 (MenuPopupWindow$MenuDropDownListView) with handle 0x7d7d0a03cc30
+11-29 18:25:51.409   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:52ef8d8f: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:25:51.412 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:52ef8d8f: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:25:51.412 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:25:51.415   831  1096 I ImeTracker: system_server:f7ad0c77: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:51.415 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:25:51.420 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:25:51.421   831   870 I ImeTracker: system_server:f7ad0c77: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:25:51.421 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:51.559 26623 26623 I ViewInteraction: Performing 'type text(Test note)' action on view view.getId() is <2131231056/com.example.lab6_lab4_rimantek:id/noteTitleEditText>
+11-29 18:25:51.608   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:25:51.640 26623 26623 I AutofillManager: showAutofillDialog() return false due to improve fill dialog
+11-29 18:25:51.643 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:71264ccc: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+11-29 18:25:51.652 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:25:51.654 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:25:51.661 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=48000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231056, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=non-empty, hintLocales=[]}}, false)
+11-29 18:25:51.669 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:51.677 26623 26623 I AssistStructure: Flattened final assist data: 1936 bytes, containing 1 windows, 8 views
+11-29 18:25:51.692 12373 12373 I DeviceIntelligenceExtension: DeviceIntelligenceExtension.getInlineSuggestionsRequest():257 Inline suggestions disabled in stylus mode or vertical PK/Voice toolbar
+11-29 18:25:51.697 12373 12373 I StylusModule: StylusModule.onUpdateToolType():799 Update tool type = 2
+11-29 18:25:51.733 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1438 onStartInputView(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=48000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231056, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=non-empty, hintLocales=[]}}, false)
+11-29 18:25:51.750 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():108 systemKeyboardHeightRatio:1.000000.
+11-29 18:25:51.759 12373 12373 I AndroidIME: InputBundleManager.loadActiveInputBundleId():528 loadActiveInputBundleId: en-US, ime_english_united_states
+11-29 18:25:51.764 12373 12373 I AndroidIME: AbstractIme.onActivate():96 LatinIme.onActivate() : EditorInfo = EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=48000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231056, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=non-empty, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+11-29 18:25:51.772  1506  1506 E AbstractGmsTracer: Traced class shouldn't be obfuscated: aowm [CONTEXT service_id=259 ]
+11-29 18:25:51.774 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:51.779 12373 12373 I Delight5Facilitator: Delight5Facilitator.initializeForIme():739 initializeForIme() : Locale = [en_US], layout = qwerty
+11-29 18:25:51.781 26623 26623 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:25:51.823 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: STOPPED
+11-29 18:25:51.823 26623 26623 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:51.885 12373 12373 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1246 inline flag updated to:false
+11-29 18:25:51.904 12373 12373 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1246 inline flag updated to:false
+11-29 18:25:51.912 26623 26623 D UiControllerImpl: Injecting string: "Test note"
+11-29 18:25:51.964  1753  1753 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-29 18:25:51.964  1753  1753 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-29 18:25:52.048  1308  1308 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:2132891254
+11-29 18:25:52.049  1506  1512 W .gms.persistent: Suspending all threads took: 5.497ms
+11-29 18:25:52.059 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:52.060 12373 12373 I LatinIme: LatinIme.resetInputContext():2250 resetInputContext(): reason=1, externalEditsInfo=ExternalEditsInfo{action=0, offset=-1, text=null, originalText=null, edits=null}
+11-29 18:25:52.061 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:52.070 12373 12440 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():536 setKeyboardLayout()
+11-29 18:25:52.073 12373 12373 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():581 activateKeyboard(): type=accessory, status=INACTIVE, imeDef=mog{stringId=ime_english_united_states, language=en-US, languageTag=en-US, processedConditions={writing_helper_enable_by_word_revert=false, true=true, enable_number_row=false, device=phone, enable_pk_simulator=false}, className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, label=0, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, indicatorIcon=0, indicatorLabel=US, displayAppCompletions=true, extraValues=mnz{#0x7f0b02e2=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}}, processors=mpx@ad382a0, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=true, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, keyboardGroupDef=mpg@f7e8244, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=true}
+11-29 18:25:52.074 12373 12373 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory, imeId=ime_english_united_states, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+11-29 18:25:52.079 12373 12373 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():224 onKeyboardReady(): type=accessory(accessory), kb=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard@2eca86c
+11-29 18:25:52.079 12373 12373 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():611 doActivateKeyboard(): accessory
+11-29 18:25:52.084 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.088 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.089 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+11-29 18:25:52.095 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.096 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.097 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=FLOATING_CANDIDATES, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.097 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=WIDGET, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.100 12373 12373 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory_candidates_consumer, imeId=ime_english_united_states, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+11-29 18:25:52.104  1506  1506 E AbstractGmsTracer: Traced class shouldn't be obfuscated: aowm [CONTEXT service_id=259 ]
+11-29 18:25:52.108 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+11-29 18:25:52.108 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f17004c], initialStates=0, keyboardViewDefs=[mpo{direction=null, id=#0x7f0b0226, isScalable=false, layoutId=#0x7f0e0032, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f3, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated={FLOATING_CANDIDATES=mbd@4bf2cc6}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.109 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f17004c], initialStates=0, keyboardViewDefs=[mpo{direction=null, id=#0x7f0b0226, isScalable=false, layoutId=#0x7f0e0032, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f3, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={FLOATING_CANDIDATES=mbd@4bf2cc6}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:52.138 12373 12373 I AndroidIME: InputBundleManager.startInput():358 startInput() with mpk[keyboardType=accessory, payload=null]
+11-29 18:25:52.139 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.onActivate():120
+11-29 18:25:52.226 12373 12373 W AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.setMaxWidthOfChipTextView():1070 Failed to get the width of the proactive suggestion view holder in HEADER.
+11-29 18:25:52.231 12373 12373 W AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.setMaxWidthOfChipTextView():1070 Failed to get the width of the proactive suggestion view holder in HEADER.
+11-29 18:25:52.248 12373 12373 W AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.setMaxWidthOfChipTextView():1070 Failed to get the width of the proactive suggestion view holder in WIDGET.
+11-29 18:25:52.253 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION in HEADER
+11-29 18:25:52.257 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on HEADER
+11-29 18:25:52.257 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION in FLOATING_CANDIDATES
+11-29 18:25:52.261 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION in WIDGET
+11-29 18:25:52.261 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on WIDGET
+11-29 18:25:52.265 12373 12373 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nke{labelResId=2132020515, callback=cil@5989b87, lastModifier=2, keyCodes=[56], actions=[0]}
+11-29 18:25:52.265 12373 12373 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nke{labelResId=2132020515, callback=cil@2c78ab4, lastModifier=0, keyCodes=[317], actions=[0]}
+11-29 18:25:52.266 12373 12373 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nke{labelResId=2132020515, callback=cil@2ef5f37, lastModifier=2, keyCodes=[56], actions=[0]}
+11-29 18:25:52.266 12373 12373 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nke{labelResId=2132020515, callback=cil@a787ca4, lastModifier=0, keyCodes=[317], actions=[0]}
+11-29 18:25:52.270 12373 12373 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():109 cancelShutdown()
+11-29 18:25:52.270 12373 12373 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():121 syncLanguagePacks()
+11-29 18:25:52.274 12373 12373 I AudioFocusHandler: AudioFocusHandler.initializeAudioFocusRequest():198 AudioAttributes: AudioAttributes: usage=USAGE_VOICE_COMMUNICATION content=CONTENT_TYPE_SPEECH flags=0x800(FLAG_MUTE_HAPTIC)  tags= bundle=null
+11-29 18:25:52.276 12373 12373 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1206 onKeyboardActivated() [UD]
+11-29 18:25:52.276 12373 14460 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():217 maybeScheduleAutoPackDownloadForFallback()
+11-29 18:25:52.276 12373 14460 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():205 maybeScheduleAutoPackDownload() for language tag en-US
+11-29 18:25:52.280 12373 12373 I PkModeUpdater: PkModeUpdater.onActivate():74 onActivate true true
+11-29 18:25:52.283 12373 12373 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():318 Accessory input mode started: STYLUS
+11-29 18:25:52.288 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:52.288 12373 12373 I WidgetViewShowingController: WidgetViewShowingController.showWidgetKeyboardInternal():532 Show companion widget
+11-29 18:25:52.311 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:52.311 12373 12373 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updateAvailableArea():199 update available area Rect(21, 84 - 1059, 2333)
+11-29 18:25:52.331 12373 12373 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nke{labelResId=2132020520, callback=cil@835c7b5, lastModifier=2, keyCodes=[32], actions=[0]}
+11-29 18:25:52.331 12373 12373 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nke{labelResId=2132020520, callback=cil@cbd5e4a, lastModifier=0, keyCodes=[319], actions=[0]}
+11-29 18:25:52.341 12373 12373 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [juz->jta] takes 58ms
+11-29 18:25:52.345 12373 12373 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -63 navBarHeight: 63
+11-29 18:25:52.346 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:52.346 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:52.346 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:52.347 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:52.349 12373 12373 W NormalModeController: NormalModeController.adjustKeyboardBodyHeightRatio():216 Invalid height ratio from decoder -1.000000!
+11-29 18:25:52.349 12373 12373 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():811 interface mej is not activate
+11-29 18:25:52.359 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:52.360 12373 12373 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nke{labelResId=2132020515, callback=cil@1d96923, lastModifier=2, keyCodes=[56], actions=[0]}
+11-29 18:25:52.360 12373 12373 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nke{labelResId=2132020515, callback=cil@bac9e20, lastModifier=0, keyCodes=[317], actions=[0]}
+11-29 18:25:52.360 12373 12373 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nke{labelResId=2132020515, callback=cil@b9fbe0b, lastModifier=2, keyCodes=[56], actions=[0]}
+11-29 18:25:52.360 12373 12373 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nke{labelResId=2132020515, callback=cil@66d74e8, lastModifier=0, keyCodes=[317], actions=[0]}
+11-29 18:25:52.362 12373 12373 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():378 No private IME option set to start voice input.
+11-29 18:25:52.365 12373 26453 I SystemHapticSettings: SystemHapticSettings.updateSystemVibrationState():117 update vibration state: true
+11-29 18:25:52.369 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@d22157c
+11-29 18:25:52.372  1753  1753 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+11-29 18:25:52.373  1753  1753 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+11-29 18:25:52.377 12373 12373 I StylusModule: StylusModule.onUpdateToolType():799 Update tool type = 0
+11-29 18:25:52.465 12373 12373 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():536 setKeyboardLayout()
+11-29 18:25:52.597 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:52.603 12373 12373 I Choreographer: Skipped 51 frames!  The application may be doing too much work on its main thread.
+11-29 18:25:52.879 26623 26670 D ProfileInstaller: Installing profile for com.example.lab6_lab4_rimantek
+11-29 18:25:53.065 12373 12466 I HWUI    : Davey! duration=1287ms; Flags=1, FrameTimelineVsyncId=544946, IntendedVsync=59549412043214, Vsync=59550262043180, InputEventId=0, HandleInputStart=59550270389860, AnimationStart=59550270640360, PerformTraversalsStart=59550271749060, DrawStart=59550429291060, FrameDeadline=59549428709880, FrameStartTime=59550269272560, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=59550557939260, SyncStart=59550571543660, IssueDrawCommandsStart=59550576377560, SwapBuffers=59550679345960, FrameCompleted=59550712952760, DequeueBufferDuration=250200, QueueBufferDuration=514400, GpuCompleted=59550712952760, SwapBuffersCompleted=59550699622660, DisplayPresentTime=0, CommandSubmissionCompleted=59550679345960,
+11-29 18:25:53.083 12373 12373 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=HEADER keyboardView=null
+11-29 18:25:53.085 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:53.086 12373 12373 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=BODY keyboardView=null
+11-29 18:25:53.087 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:53.098 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-29 18:25:53.109 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3042<3044, inputStateId=2463, lastInputStateId=2464
+11-29 18:25:53.120 26623 26672 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.lab6_lab4_rimantek
+11-29 18:25:53.125 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE in HEADER
+11-29 18:25:53.125 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on HEADER
+11-29 18:25:53.125 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE in FLOATING_CANDIDATES
+11-29 18:25:53.128 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE in WIDGET
+11-29 18:25:53.128 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on WIDGET
+11-29 18:25:53.132 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.140 12373 12373 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():72 initialize...
+11-29 18:25:53.141 12373 12373 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
+11-29 18:25:53.143 12373 12373 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
+11-29 18:25:53.143 12373 12373 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():82 initialize...done
+11-29 18:25:53.152 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3044<3046, inputStateId=2465, lastInputStateId=2466
+11-29 18:25:53.154 12373 12466 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():138 com.google.android.keyboard.client.delight5.LanguageIdentifier@f0edea9 is created
+11-29 18:25:53.269 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.271 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3046<3047, inputStateId=2467, lastInputStateId=2468
+11-29 18:25:53.310 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.339 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:71264ccc: onShown
+11-29 18:25:53.357 12373 12440 I native  : I0000 00:00:1764433553.351988   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:53.412 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.418 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3048<3052, inputStateId=2469, lastInputStateId=2471
+11-29 18:25:53.460 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.495 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.532 12373 12440 I native  : I0000 00:00:1764433553.529907   12440 input-context-store.cc:262] Ignoring stale client request for OverrideDecodedCandidates
+11-29 18:25:53.540 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.543 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3052<3057, inputStateId=0, lastInputStateId=2475
+11-29 18:25:53.574 12373 12490 I tflite  : Replacing 131 out of 337 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 66 partitions for subgraph 0.
+11-29 18:25:53.578 12373 12440 I native  : I0000 00:00:1764433553.574115   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:53.581 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3056<3058, inputStateId=2475, lastInputStateId=2475
+11-29 18:25:53.594 12373 12490 I tflite  : Replacing 18 out of 53 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 13 partitions for subgraph 0.
+11-29 18:25:53.605 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:53.616 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3058<3060, inputStateId=2476, lastInputStateId=2477
+11-29 18:25:53.617 12373 12490 I tflite  : Replacing 41 out of 87 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 21 partitions for subgraph 0.
+11-29 18:25:53.630 26623 26623 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131231056/com.example.lab6_lab4_rimantek:id/noteTitleEditText>
+11-29 18:25:53.633 26623 26623 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@48ceab0]
+11-29 18:25:53.634 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:a7162358: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+11-29 18:25:53.634 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@895b4c0
+11-29 18:25:53.635 26623 26623 D CompatChangeReporter: Compat change id reported: 395521150; UID 10244; state: ENABLED
+11-29 18:25:53.850   831  1655 I ImeTracker: system_server:f250c9ca: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:53.856 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():1570 onFinishInputView(false)
+11-29 18:25:53.856 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():144
+11-29 18:25:53.861 12373 12373 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():131 shutdown()
+11-29 18:25:53.861 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:53.863 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:53.866 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-29 18:25:53.867 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:53.871 12373 12373 I AndroidIME: AbstractIme.onDeactivate():216 LatinIme.onDeactivate()
+11-29 18:25:53.871 12373 12437 W ModuleManager: ModuleManager.loadModule():572 Module ofi is not available
+11-29 18:25:53.878 12373 12373 I ImeTracker: system_server:f250c9ca: onHidden
+11-29 18:25:53.878 12373 12437 I OnDeviceWmrCalculator: OnDeviceWmrCalculator.calculateWmr():94 WMR: 0.0000 (0 / 2)
+11-29 18:25:53.890   831   871 I ImeTracker: system_server:f50aef94: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+11-29 18:25:53.893 26623 26623 I ImeTracker: system_server:f50aef94: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+11-29 18:25:53.903   587  2515 D android.hardware.audio@7.1-impl.ranchu: threadLoop: entering standby, frames: 24447360
+11-29 18:25:53.904   587  2515 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: joining consumeThread
+11-29 18:25:53.909   587 26660 D android.hardware.audio@7.1-impl.ranchu: consumeThread: exiting
+11-29 18:25:53.909   587  2515 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: stopping PCM stream
+11-29 18:25:53.943 26623 26623 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@48ceab0]
+11-29 18:25:53.963 26623 26623 I ViewInteraction: Performing 'type text(This is the body.)' action on view view.getId() is <2131231055/com.example.lab6_lab4_rimantek:id/noteContentEditText>
+11-29 18:25:54.030 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:54.044 26623 26623 I AutofillManager: showAutofillDialog() return false due to improve fill dialog
+11-29 18:25:54.050 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:aa73248c: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+11-29 18:25:54.062 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:25:54.067 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:25:54.076 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.076 26623 26623 W RemoteInputConnectionImpl: requestCursorUpdates on inactive InputConnection
+11-29 18:25:54.076 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=44000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231055, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=non-empty, hintLocales=[]}}, false)
+11-29 18:25:54.084 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:54.089 12373 12373 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():241 startImportContentTask()
+11-29 18:25:54.092 12373 12443 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():257 doInBackground()
+11-29 18:25:54.092 12373 12443 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():114 LanguageTags = [en-US]
+11-29 18:25:54.104 12373 12373 I StylusModule: StylusModule.onUpdateToolType():799 Update tool type = 2
+11-29 18:25:54.106 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1438 onStartInputView(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=44000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231055, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=non-empty, hintLocales=[]}}, false)
+11-29 18:25:54.112 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():108 systemKeyboardHeightRatio:1.000000.
+11-29 18:25:54.115 12373 12373 I AndroidIME: InputBundleManager.loadActiveInputBundleId():528 loadActiveInputBundleId: en-US, ime_english_united_states
+11-29 18:25:54.115 12373 12373 I AndroidIME: AbstractIme.onActivate():96 LatinIme.onActivate() : EditorInfo = EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=44000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231055, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=non-empty, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+11-29 18:25:54.118 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:54.119 12373 12373 I Delight5Facilitator: Delight5Facilitator.initializeForIme():739 initializeForIme() : Locale = [en_US], layout = qwerty
+11-29 18:25:54.121 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:aa73248c: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+11-29 18:25:54.124 12373 12373 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1246 inline flag updated to:false
+11-29 18:25:54.128 12373 12373 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1246 inline flag updated to:false
+11-29 18:25:54.133 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:54.134 12373 12373 I LatinIme: LatinIme.resetInputContext():2250 resetInputContext(): reason=1, externalEditsInfo=ExternalEditsInfo{action=0, offset=-1, text=null, originalText=null, edits=null}
+11-29 18:25:54.134 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:54.139 12373 12440 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():536 setKeyboardLayout()
+11-29 18:25:54.140 12373 12443 I ShortcutsDataManager: AbstractContentDataManager.importRecords():348 importRecords() : Success : Count = 0
+11-29 18:25:54.140 12373 12373 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():581 activateKeyboard(): type=accessory, status=INACTIVE, imeDef=mog{stringId=ime_english_united_states, language=en-US, languageTag=en-US, processedConditions={writing_helper_enable_by_word_revert=false, true=true, enable_number_row=false, device=phone, enable_pk_simulator=false}, className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, label=0, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, indicatorIcon=0, indicatorLabel=US, displayAppCompletions=true, extraValues=mnz{#0x7f0b02e2=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}}, processors=mpx@ad382a0, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=true, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, keyboardGroupDef=mpg@f7e8244, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=true}
+11-29 18:25:54.140 12373 12373 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory, imeId=ime_english_united_states, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+11-29 18:25:54.140 12373 12373 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():224 onKeyboardReady(): type=accessory(accessory), kb=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard@2eca86c
+11-29 18:25:54.140 12373 12373 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():611 doActivateKeyboard(): accessory
+11-29 18:25:54.141 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.141 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.141 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+11-29 18:25:54.141 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.142 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.142 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=FLOATING_CANDIDATES, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.142 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=WIDGET, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.142 12373 12373 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory_candidates_consumer, imeId=ime_english_united_states, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+11-29 18:25:54.143 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+11-29 18:25:54.143 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f17004c], initialStates=0, keyboardViewDefs=[mpo{direction=null, id=#0x7f0b0226, isScalable=false, layoutId=#0x7f0e0032, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f3, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated={FLOATING_CANDIDATES=mbd@4bf2cc6}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.143 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f17004c], initialStates=0, keyboardViewDefs=[mpo{direction=null, id=#0x7f0b0226, isScalable=false, layoutId=#0x7f0e0032, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f3, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={FLOATING_CANDIDATES=mbd@4bf2cc6}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.148 12373 12373 I AndroidIME: InputBundleManager.startInput():358 startInput() with mpk[keyboardType=accessory, payload=null]
+11-29 18:25:54.148 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.onActivate():120
+11-29 18:25:54.158 12373 12443 I ShortcutsDataManager: AbstractContentDataManager.importContentData():297 importContentData() : Ending import process
+11-29 18:25:54.171 12373 12373 W AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.setMaxWidthOfChipTextView():1070 Failed to get the width of the proactive suggestion view holder in HEADER.
+11-29 18:25:54.173 12373 12373 W AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.setMaxWidthOfChipTextView():1070 Failed to get the width of the proactive suggestion view holder in HEADER.
+11-29 18:25:54.175 12373 12440 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():971 unloadLanguageModel() : 4, version [n/a]
+11-29 18:25:54.183 12373 12373 W AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.setMaxWidthOfChipTextView():1070 Failed to get the width of the proactive suggestion view holder in WIDGET.
+11-29 18:25:54.184 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION in HEADER
+11-29 18:25:54.186 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on HEADER
+11-29 18:25:54.186 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION in FLOATING_CANDIDATES
+11-29 18:25:54.189 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION in WIDGET
+11-29 18:25:54.190 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on WIDGET
+11-29 18:25:54.193 12373 12373 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():109 cancelShutdown()
+11-29 18:25:54.194 12373 12373 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():121 syncLanguagePacks()
+11-29 18:25:54.195 12373 12373 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1206 onKeyboardActivated() [UD]
+11-29 18:25:54.195 12373 14460 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():217 maybeScheduleAutoPackDownloadForFallback()
+11-29 18:25:54.196 12373 12373 I PkModeUpdater: PkModeUpdater.onActivate():74 onActivate true true
+11-29 18:25:54.197 12373 12373 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():318 Accessory input mode started: STYLUS
+11-29 18:25:54.198 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:54.198 12373 14460 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():205 maybeScheduleAutoPackDownload() for language tag en-US
+11-29 18:25:54.198 12373 12373 I WidgetViewShowingController: WidgetViewShowingController.showWidgetKeyboardInternal():532 Show companion widget
+11-29 18:25:54.218 12373 12443 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():165 run() : Added 0 words and 0 shortcuts
+11-29 18:25:54.218 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:54.219 12373 12373 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updateAvailableArea():199 update available area Rect(21, 84 - 1059, 2333)
+11-29 18:25:54.220 12373 12443 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():43 perform() : 4 : edr : Completed
+11-29 18:25:54.221 12373 12373 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [juz->jta] takes 24ms
+11-29 18:25:54.222 12373 12440 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():758 loadLanguageModel() : 4, version [n/a]
+11-29 18:25:54.222 12373 12373 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -63 navBarHeight: 63
+11-29 18:25:54.222 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:54.222 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:54.223 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:54.223 12373 12373 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2274, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1877
+11-29 18:25:54.223 12373 12440 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():803 Loaded dynamic LM 4.en
+11-29 18:25:54.225 12373 12373 W NormalModeController: NormalModeController.adjustKeyboardBodyHeightRatio():216 Invalid height ratio from decoder -1.000000!
+11-29 18:25:54.225 12373 12373 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():811 interface mej is not activate
+11-29 18:25:54.229 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:54.230 12373 12373 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():378 No private IME option set to start voice input.
+11-29 18:25:54.235 12373 26452 I SystemHapticSettings: SystemHapticSettings.updateSystemVibrationState():117 update vibration state: true
+11-29 18:25:54.237 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@d22157c
+11-29 18:25:54.258 12373 12373 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=HEADER keyboardView=null
+11-29 18:25:54.259 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.259 12373 12373 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=BODY keyboardView=null
+11-29 18:25:54.259 12373 12373 W Keyboard: Keyboard.getKeyboardViewHelper():602 null helper is returned: keyboardDef=mpa{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f17004d], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated={}, context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.109 fontWeightAdjustment=0}
+11-29 18:25:54.262 12373 12373 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():268 onPostExecute() : Result = [2,0]
+11-29 18:25:54.262 12373 12373 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():82 onImportFinished() : Result = 2 : Count = 0
+11-29 18:25:54.284 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:aa73248c: onShown
+11-29 18:25:54.284   831  1655 I ImeTracker: com.example.lab6_lab4_rimantek:aa73248c: onFinished on previously finished token at PHASE_NOT_SET with STATUS_SUCCESS
+11-29 18:25:54.343 26623 26623 D UiControllerImpl: Injecting string: "This is the body."
+11-29 18:25:54.353 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE in HEADER
+11-29 18:25:54.353 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on HEADER
+11-29 18:25:54.353 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE in FLOATING_CANDIDATES
+11-29 18:25:54.353 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():226 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE in WIDGET
+11-29 18:25:54.353 12373 12373 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$2.display():245 suggestions CLIPBOARD are pending to show on WIDGET
+11-29 18:25:54.354 12373 12373 I StylusModule: StylusModule.onUpdateToolType():799 Update tool type = 0
+11-29 18:25:54.354 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-29 18:25:54.379 12373 12373 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():536 setKeyboardLayout()
+11-29 18:25:54.386 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.389 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3065<3066, inputStateId=2482, lastInputStateId=2483
+11-29 18:25:54.395 12373 12490 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():138 com.google.android.keyboard.client.delight5.LanguageIdentifier@34cb550 is created
+11-29 18:25:54.425 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3067<3068, inputStateId=2484, lastInputStateId=2483
+11-29 18:25:54.438 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.476 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.523 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.552 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.590 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.616   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:25:54.627 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.633 12373 12440 E native  : E0000 00:00:1764433554.633447   12440 decoder-results-response-updater.cc:1253] Unexpected empty result.
+11-29 18:25:54.633 12373 12440 E native  : E0000 00:00:1764433554.633738   12440 decoder-results-response-updater.cc:611] Unexpected empty result.
+11-29 18:25:54.635 12373 12440 I native  : I0000 00:00:1764433554.635916   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:54.637 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3078<3079, inputStateId=2496, lastInputStateId=2496
+11-29 18:25:54.649 12373 12440 E native  : E0000 00:00:1764433554.649233   12440 decoder-results-response-updater.cc:611] Unexpected empty result.
+11-29 18:25:54.661 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.706 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.737 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.746 12373 12440 I native  : I0000 00:00:1764433554.746802   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:54.749 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3084<3086, inputStateId=2502, lastInputStateId=2502
+11-29 18:25:54.766 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.779 12373 12440 I native  : I0000 00:00:1764433554.779017   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:54.790 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3086<3088, inputStateId=2503, lastInputStateId=2503
+11-29 18:25:54.801 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.860 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.892 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.910 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.918 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3092<3095, inputStateId=2509, lastInputStateId=2511
+11-29 18:25:54.928 12373 12440 I native  : I0000 00:00:1764433554.927447   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:54.933 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3094<3096, inputStateId=2511, lastInputStateId=2511
+11-29 18:25:54.945 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:54.957 12373 12440 I native  : I0000 00:00:1764433554.958811   12440 input-context-store.cc:340] Ignoring stale client request for FetchSuggestions
+11-29 18:25:54.960 12373 12373 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 3096<3098, inputStateId=2512, lastInputStateId=2512
+11-29 18:25:54.978 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+11-29 18:25:55.009 26623 26623 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131231055/com.example.lab6_lab4_rimantek:id/noteContentEditText>
+11-29 18:25:55.013 26623 26623 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@5b6b074]
+11-29 18:25:55.014 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:86dcf10: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+11-29 18:25:55.016 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@895b4c0
+11-29 18:25:55.141   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+11-29 18:25:55.142   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+11-29 18:25:55.142   831  1023 D InetDiagMessage: Destroyed live tcp sockets for uids={10105} in 0ms
+11-29 18:25:55.235   831  1655 I ImeTracker: system_server:d62e2592: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:55.242 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():1570 onFinishInputView(false)
+11-29 18:25:55.242 12373 12373 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():144
+11-29 18:25:55.245 12373 12373 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():131 shutdown()
+11-29 18:25:55.245 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:55.250 12373 12373 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():820 class jte is not activate
+11-29 18:25:55.250 12373 12373 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-29 18:25:55.251 12373 12373 I InputBundle: InputBundle.consumeEvent():1033 Skip consuming an event as keyboard status is INACTIVE
+11-29 18:25:55.254 12373 12373 I AndroidIME: AbstractIme.onDeactivate():216 LatinIme.onDeactivate()
+11-29 18:25:55.254 12373 12437 W ModuleManager: ModuleManager.loadModule():572 Module ofi is not available
+11-29 18:25:55.257 12373 12373 I ImeTracker: system_server:d62e2592: onHidden
+11-29 18:25:55.258 12373 12437 I OnDeviceWmrCalculator: OnDeviceWmrCalculator.calculateWmr():94 WMR: 0.0000 (0 / 4)
+11-29 18:25:55.267   831   871 I ImeTracker: system_server:54173569: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+11-29 18:25:55.269 26623 26623 I ImeTracker: system_server:54173569: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+11-29 18:25:55.324 26623 26623 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@5b6b074]
+11-29 18:25:55.329 26623 26623 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231113/com.example.lab6_lab4_rimantek:id/saveButton>
+11-29 18:25:55.389   831  1459 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:25:55.454   654   676 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:55.473 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:55.476 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: PAUSED
+11-29 18:25:55.476 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:55.572 26623 26623 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:25:55.572 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: RESTARTED
+11-29 18:25:55.572 26623 26623 V ActivityScenario: Update currentActivityStage to RESTARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:55.574 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: STARTED
+11-29 18:25:55.574 26623 26623 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:55.580 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: RESUMED
+11-29 18:25:55.580 26623 26623 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:55.595  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:55.637   831   871 I ImeTracker: system_server:eb2cdf62: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+11-29 18:25:55.768   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+11-29 18:25:55.769   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+11-29 18:25:55.769   831  1023 D InetDiagMessage: Destroyed live tcp sockets for uids={10144} in 0ms
+11-29 18:25:55.843   831   928 I ImeTracker: system_server:7b9fdb52: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:55.844   831   870 I ImeTracker: system_server:7b9fdb52: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:25:55.936   603 13863 I RanchuHwc: logCompositionFallbackIfChanged: layer 676 CompositionType fallback from 2 to 1
+11-29 18:25:55.976 26623 26623 I ImeTracker: system_server:eb2cdf62: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+11-29 18:25:55.985   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:651f0335: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:25:55.986 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:651f0335: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:25:55.992 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:25:55.996 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:25:55.996   831   928 I ImeTracker: system_server:23b65467: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:55.999   831   870 I ImeTracker: system_server:23b65467: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:25:56.002 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:25:56.004 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:56.096 26623 26623 W RemoteInputConnectionImpl: requestCursorUpdates on inactive InputConnection
+11-29 18:25:56.385 26623 26623 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=view has effective visibility <GONE>}' assertion on view view.getId() is <2131230905/com.example.lab6_lab4_rimantek:id/emptyView>
+11-29 18:25:56.402 26623 26623 I ViewInteraction: Performing 'load adapter data' action on view view.getId() is <2131231057/com.example.lab6_lab4_rimantek:id/notesListView>
+11-29 18:25:56.435 26623 26628 W 6_lab4_rimantek: userfaultfd: MOVE ioctl seems unsupported: Connection timed out
+11-29 18:25:56.452 26623 26623 D VRI[AddNoteActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:25:56.464 26623 26623 I AutofillManager: onInvisibleForAutofill(): expiringResponse
+11-29 18:25:56.465 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: STOPPED
+11-29 18:25:56.467 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:56.471 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:56.473 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:25:56.476 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91 in: DESTROYED
+11-29 18:25:56.476 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.AddNoteActivity }, activity=com.example.lab6_lab4_rimantek.AddNoteActivity@3c0fa91
+11-29 18:25:56.477 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:56.478 26623 26623 D AutofillManager: view not autofillable - has multiline input type
+11-29 18:25:56.481 12373 12466 I SpellCheckerSession: SpellCheckerSession.onClose():690 com.google.android.keyboard.client.delight5.LanguageIdentifier@f0edea9 is closed
+11-29 18:25:56.481 12373 12490 I SpellCheckerSession: SpellCheckerSession.onClose():690 com.google.android.keyboard.client.delight5.LanguageIdentifier@34cb550 is closed
+11-29 18:25:56.486 26623 26623 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:25:56.496 26623 26623 I ViewInteraction: Performing 'single click' action on view  displaying data matching: is "Test note" within adapter view matching: view.getId() is <2131231057/com.example.lab6_lab4_rimantek:id/notesListView>
+11-29 18:25:56.610   831  1655 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:25:56.612   831   927 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e1fcae27 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:25:56.619   654   677 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:56.621   650   761 D AudioFlinger: mixer(0x728cbd5627d0) throttle end: throttle time(35)
+11-29 18:25:56.629 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: PAUSED
+11-29 18:25:56.630 26623 26623 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:56.661 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2 in: PRE_ON_CREATE
+11-29 18:25:56.661 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.ViewNoteActivity (has extras) }, activity=com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2
+11-29 18:25:56.678 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2 in: CREATED
+11-29 18:25:56.678 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.ViewNoteActivity (has extras) }, activity=com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2
+11-29 18:25:56.682 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2 in: STARTED
+11-29 18:25:56.682 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.ViewNoteActivity (has extras) }, activity=com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2
+11-29 18:25:56.686 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2 in: RESUMED
+11-29 18:25:56.688 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.ViewNoteActivity (has extras) }, activity=com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2
+11-29 18:25:56.734 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@d42ed83
+11-29 18:25:56.735 26623 26623 D VRI[ViewNoteActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:25:56.740  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:56.950   831   867 I ActivityTaskManager: Displayed com.example.lab6_lab4_rimantek/.ViewNoteActivity for user 0: +337ms
+11-29 18:25:57.144  1506  4614 I libbinder.IPCThreadState: oneway function results for code 1 on binder at 0x7d7d0a03c240 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+11-29 18:25:57.147   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:5d577e36: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:25:57.150 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:5d577e36: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:25:57.154 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:25:57.157 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:25:57.161 26623 26623 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Test note"}' assertion on view view.getId() is <2131231235/com.example.lab6_lab4_rimantek:id/viewNoteTitle>
+11-29 18:25:57.168 26623 26623 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "This is the body."}' assertion on view view.getId() is <2131231234/com.example.lab6_lab4_rimantek:id/viewNoteContent>
+11-29 18:25:57.172 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:25:57.175 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:25:57.175   831  1459 I ImeTracker: system_server:9d803317: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:25:57.178   831   870 I ImeTracker: system_server:9d803317: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:25:57.244   831  1655 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e3b186c6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:25:57.255   654   795 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:57.271 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2 in: PAUSED
+11-29 18:25:57.271 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.ViewNoteActivity (has extras) }, activity=com.example.lab6_lab4_rimantek.ViewNoteActivity@a034cd2
+11-29 18:25:57.282  1299  1299 D RecentsView: onTaskDisplayChanged: 96, new displayId = 0
+11-29 18:25:57.315  1133  1137 W ndroid.systemui: Missing inline cache for void com.android.wm.shell.transition.Transitions$ShellTransitionImpl$$ExternalSyntheticLambda3.run()
+11-29 18:25:57.317   831   870 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e3b186c6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:25:57.332  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:57.342   579   579 D Zygote  : Forked child process 26678
+11-29 18:25:57.395  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:57.401 26678 26678 I Zygote  : Process 26678 created for com.example.lab6_lab4_rimantek.test
+11-29 18:25:57.404 26678 26678 I 4_rimantek.test: Late-enabling -Xcheck:jni
+11-29 18:25:57.504 26678 26678 I 4_rimantek.test: Using CollectorTypeCMC GC.
+11-29 18:25:57.508 26678 26678 W 4_rimantek.test: Unexpected CPU variant for x86: x86_64.
+11-29 18:25:57.508 26678 26678 W 4_rimantek.test: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, default
+11-29 18:25:57.518 26623 26623 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:25:57.536   662   690 I adbd    : jdwp connection from 26678
+11-29 18:25:57.563 26678 26678 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+11-29 18:25:57.684  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:57.684   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:25:57.720 26678 26678 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+11-29 18:25:57.731 26678 26678 D nativeloader: Configuring clns-9 for other apk /system/framework/android.test.mock.jar. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~M9QiJzfy970G5mLoNOydyg==/com.example.lab6_lab4_rimantek.test-bvo7Cf2p3QuqiYI9Zdi6tA==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.lab6_lab4_rimantek.test
+11-29 18:25:57.732 26678 26678 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+11-29 18:25:57.743 26678 26678 D nativeloader: Configuring clns-10 for other apk /system/framework/android.test.runner.jar. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~M9QiJzfy970G5mLoNOydyg==/com.example.lab6_lab4_rimantek.test-bvo7Cf2p3QuqiYI9Zdi6tA==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.lab6_lab4_rimantek.test
+11-29 18:25:57.769 26678 26678 D nativeloader: Configuring clns-11 for other apk /data/app/~~M9QiJzfy970G5mLoNOydyg==/com.example.lab6_lab4_rimantek.test-bvo7Cf2p3QuqiYI9Zdi6tA==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~M9QiJzfy970G5mLoNOydyg==/com.example.lab6_lab4_rimantek.test-bvo7Cf2p3QuqiYI9Zdi6tA==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.lab6_lab4_rimantek.test
+11-29 18:25:57.812 26678 26678 V GraphicsEnvironment: Currently set values for:
+11-29 18:25:57.812 26678 26678 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+11-29 18:25:57.812 26678 26678 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+11-29 18:25:57.813 26678 26678 V GraphicsEnvironment: com.example.lab6_lab4_rimantek.test is not listed in per-application setting
+11-29 18:25:57.813 26678 26678 V GraphicsEnvironment: ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+11-29 18:25:57.813 26678 26678 V GraphicsEnvironment: com.example.lab6_lab4_rimantek.test is not listed in ANGLE allowlist or settings, returning default
+11-29 18:25:57.813 26678 26678 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+11-29 18:25:57.871 26678 26678 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+11-29 18:25:57.915 26678 26678 D CompatChangeReporter: Compat change id reported: 377864165; UID 10245; state: ENABLED
+11-29 18:25:57.916 26678 26678 D DesktopExperienceFlags: Toggle override initialized to: false
+11-29 18:25:57.917 26678 26678 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+11-29 18:25:57.984 26678 26692 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+11-29 18:25:57.984 26678 26692 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+11-29 18:25:57.991 26678 26678 W HWUI    : Unknown dataspace 0
+11-29 18:25:58.004   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+11-29 18:25:58.007   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+11-29 18:25:58.007   831  1023 D InetDiagMessage: Destroyed live tcp sockets for uids={10150} in 4ms
+11-29 18:25:58.008   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+11-29 18:25:58.008   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+11-29 18:25:58.008   831  1023 D InetDiagMessage: Destroyed live tcp sockets for uids={20150} in 1ms
+11-29 18:25:58.034 26678 26692 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-29 18:25:58.037 26678 26692 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-29 18:25:58.213 26623 26623 D VRI[ViewNoteActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:25:58.245   831  1104 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+11-29 18:25:58.246 26678 26678 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@5521abf
+11-29 18:25:58.252 26678 26678 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:25:58.257  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:58.271   654   677 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10245 pid=26678
+11-29 18:25:58.271   654   677 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10245 => denied (737 us)
+11-29 18:25:58.271   654   794 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10245 pid=0
+11-29 18:25:58.271   654   794 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10245 => denied (2306 us)
+11-29 18:25:58.271   654   677 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10245 pid=26678
+11-29 18:25:58.271   654   677 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10245 => denied (462 us)
+11-29 18:25:58.272   654   794 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10245 pid=0
+11-29 18:25:58.272   654   794 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10245 => denied (558 us)
+11-29 18:25:58.274   654   794 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10245 pid=0
+11-29 18:25:58.274   654   794 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10245 => denied (2038 us)
+11-29 18:25:58.274   654   677 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10245 pid=26678
+11-29 18:25:58.274   654   677 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10245 => denied (2393 us)
+11-29 18:25:58.326   654   794 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:58.521   831  1459 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10245 pid=0
+11-29 18:25:58.521   831  1459 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10245 => denied (312 us)
+11-29 18:25:58.521   831  1459 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10245 pid=0
+11-29 18:25:58.521   831  1459 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10245 => denied (301 us)
+11-29 18:25:58.522   831  1459 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10245 pid=0
+11-29 18:25:58.522   831  1459 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10245 => denied (222 us)
+11-29 18:25:58.540 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: STOPPED
+11-29 18:25:58.540 26623 26623 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@71ba9bc
+11-29 18:25:58.545 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:25:58.546 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@71ba9bc in: DESTROYED
+11-29 18:25:58.546 26623 26623 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+11-29 18:25:58.547 26623 26638 I TestRunner: finished: addNote_showsInList_andCanBeOpened(com.example.lab6_lab4_rimantek.MainFlowUiTest)

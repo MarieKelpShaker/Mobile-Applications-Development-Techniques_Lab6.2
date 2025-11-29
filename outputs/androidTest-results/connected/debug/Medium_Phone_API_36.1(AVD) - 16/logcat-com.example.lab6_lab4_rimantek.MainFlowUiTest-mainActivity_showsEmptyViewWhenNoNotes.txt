@@ -1,0 +1,218 @@
+11-29 18:25:59.615 26623 26638 I TestRunner: started: mainActivity_showsEmptyViewWhenNoNotes(com.example.lab6_lab4_rimantek.MainFlowUiTest)
+11-29 18:25:59.632 26623 26638 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-29 18:25:59.637 26623 26623 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:25:59.654   831  1459 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e1fcae27 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:25:59.693   587  2515 D android.hardware.audio@7.1-impl.ranchu: threadLoop: entering standby, frames: 24655168
+11-29 18:25:59.693   587  2515 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: joining consumeThread
+11-29 18:25:59.706  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+11-29 18:25:59.706  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+11-29 18:25:59.706  1299  1299 W SplitSelectStateCtor: Missing session instanceIds
+11-29 18:25:59.706  1299  1299 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+11-29 18:25:59.712   587 26674 D android.hardware.audio@7.1-impl.ranchu: consumeThread: exiting
+11-29 18:25:59.713   587  2515 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: stopping PCM stream
+11-29 18:25:59.747   654   795 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:25:59.782  1299  1299 D RecentsView: onTaskRemoved: 95, not handling task stack changes
+11-29 18:25:59.782  1299  1299 D RecentsView: onTaskRemoved: 95, not handling task stack changes
+11-29 18:25:59.782  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:59.783  1299  1299 D RecentsView: onTaskDisplayChanged: 97, new displayId = 0
+11-29 18:25:59.787 26678 26678 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:25:59.798 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: PRE_ON_CREATE
+11-29 18:25:59.798 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-29 18:25:59.811 26678 26678 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:25:59.826 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: CREATED
+11-29 18:25:59.826 26623 26623 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@49b3b8e
+11-29 18:25:59.833 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: STARTED
+11-29 18:25:59.836 26623 26623 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@49b3b8e
+11-29 18:25:59.843 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: RESUMED
+11-29 18:25:59.844 26623 26623 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@49b3b8e
+11-29 18:25:59.867 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@a3dfd16
+11-29 18:25:59.867 26623 26623 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:25:59.889  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:59.889  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:59.896  1299  1299 D RecentsView: onTaskRemoved: 96, not handling task stack changes
+11-29 18:25:59.896  1299  1299 D RecentsView: onTaskRemoved: 96, not handling task stack changes
+11-29 18:25:59.896  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:25:59.896  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:00.140   831   867 I ActivityTaskManager: Displayed com.example.lab6_lab4_rimantek/.MainActivity for user 0: +484ms
+11-29 18:26:00.180  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:00.181  1299  1299 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+11-29 18:26:00.260   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:ca14def2: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:26:00.263 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:ca14def2: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:26:00.273 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:26:00.276 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:26:00.277   831  1095 I ImeTracker: system_server:dbad6baf: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:26:00.284 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:26:00.285 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:26:00.292   831   870 I ImeTracker: system_server:dbad6baf: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:26:00.300  1133  1439 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@70ae075
+11-29 18:26:00.336  1299  1299 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:26:00.338  1299  1299 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+11-29 18:26:00.426   831  1104 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+11-29 18:26:00.439  1299  1299 D BaseActivity: Launcher flags updated: [] -[state_started]
+11-29 18:26:00.440  1299  1299 D BaseDepthController: setSurface:
+11-29 18:26:00.440  1299  1299 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+11-29 18:26:00.440  1299  1299 D BaseDepthController: 	mBaseSurface: null
+11-29 18:26:00.440  1299  1299 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+11-29 18:26:00.442  1299  1299 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+11-29 18:26:00.442  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:6)
+11-29 18:26:00.442  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:2)
+11-29 18:26:00.442  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:32)
+11-29 18:26:00.443  1299  1299 D StateManager: onRepeatStateSetAborted - state: Normal
+11-29 18:26:00.444  1299  1299 D ActivityContext: hideKeyboard:
+11-29 18:26:00.444  1299  1299 D ActivityContext: java.lang.Exception
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at com.android.launcher3.views.ActivityContext.hideKeyboard(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:3)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at com.android.launcher3.Launcher.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:17)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at com.android.launcher3.uioverrides.QuickstepLauncher.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:1)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at com.google.android.apps.nexuslauncher.NexusLauncherActivity.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:1)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.Instrumentation.callActivityOnStop(Instrumentation.java:1757)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.Activity.performStop(Activity.java:9560)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.ActivityThread.callActivityOnStop(ActivityThread.java:6241)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:6221)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.ActivityThread.handleStopActivity(ActivityThread.java:6284)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.servertransaction.StopActivityItem.execute(StopActivityItem.java:43)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2917)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.os.Handler.dispatchMessage(Handler.java:132)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.os.Looper.dispatchMessage(Looper.java:333)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.os.Looper.loopOnce(Looper.java:263)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.os.Looper.loop(Looper.java:367)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at android.app.ActivityThread.main(ActivityThread.java:9227)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at java.lang.reflect.Method.invoke(Native Method)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:566)
+11-29 18:26:00.444  1299  1299 D ActivityContext: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+11-29 18:26:00.444  1299  1299 D ActivityContext: isImeShown: false
+11-29 18:26:00.444  1299  1299 D StatsLog: LAUNCHER_ONSTOP
+11-29 18:26:00.448  1299  1299 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+11-29 18:26:00.619  1289  1411 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+11-29 18:26:00.643  1289  1411 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+11-29 18:26:00.691   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:26:00.724  1753  1753 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-29 18:26:00.897 26623 26623 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=view has effective visibility <VISIBLE>}' assertion on view view.getId() is <2131230905/com.example.lab6_lab4_rimantek:id/emptyView>
+11-29 18:26:00.904   831  1095 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e3b186c6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:26:00.918  1299  1299 D RecentsView: onTaskDisplayChanged: 98, new displayId = 0
+11-29 18:26:00.923 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: PAUSED
+11-29 18:26:00.923 26623 26623 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@49b3b8e
+11-29 18:26:00.929  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:00.934 26678 26692 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+11-29 18:26:00.935 26678 26692 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+11-29 18:26:00.960  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:00.974 26678 26692 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-29 18:26:00.974 26678 26692 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-29 18:26:01.037  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:01.059 26623 26628 W 6_lab4_rimantek: Cleared Reference was only reachable from finalizer (only reported once)
+11-29 18:26:01.161   654   677 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:26:01.200 26678 26678 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@bd57454
+11-29 18:26:01.201 26678 26678 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:26:01.205  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:01.372 26623 26630 W System  : A resource failed to call close.
+11-29 18:26:01.425  1299  1299 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:26:01.427  1299  1299 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+11-29 18:26:01.429  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+11-29 18:26:01.433  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+11-29 18:26:01.436  1299  1299 D StatsLog: LAUNCHER_ONRESUME
+11-29 18:26:01.440  1299  1299 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+11-29 18:26:01.449  1299  1299 D BaseDepthController: setSurface:
+11-29 18:26:01.449  1299  1299 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+11-29 18:26:01.449  1299  1299 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e
+11-29 18:26:01.449  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.451  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... .......D 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... .......D 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.477  1133  1439 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@70ae075
+11-29 18:26:01.485  1299  1349 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+11-29 18:26:01.488  1664  1874 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+11-29 18:26:01.488  1664  1874 I AiAiEcho: EchoTargets:
+11-29 18:26:01.488  1664  1874 I AiAiEcho: Filtered by AiAi flag check:
+11-29 18:26:01.488  1664  1874 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+11-29 18:26:01.488  1664  1874 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+11-29 18:26:01.492  1664  1874 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+11-29 18:26:01.652  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:01.665  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:01.665  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:01.665  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:01.665  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:01.665  1299  1299 I SsBaseTemplateCard: Secondary card pane is null
+11-29 18:26:01.714  1299  1299 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+11-29 18:26:01.714  1299  1299 D StateManager: 	at com.android.quickstep.util.ScalingWorkspaceRevealAnim.<init>(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:54)
+11-29 18:26:01.714  1299  1299 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:83)
+11-29 18:26:01.714  1299  1299 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:96)
+11-29 18:26:01.716  1299  1299 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+11-29 18:26:01.718  1299  1299 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+11-29 18:26:01.721  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.722  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.722  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.722  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.722  1299  1299 D b/311077782: LauncherAnimationRunner.setAnimation
+11-29 18:26:01.722  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.722  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ......ID 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.722  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.722  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ......ID 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.723  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.723  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ......ID 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.723  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.723  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ......ID 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.723  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.723  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ......ID 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.734  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.735  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.816  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.819  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... .......D 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.829  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:01.831  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+11-29 18:26:01.834   831   981 I ImeTracker: com.google.android.apps.nexuslauncher:75731c77: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:26:01.835  1299  1299 I ImeTracker: com.google.android.apps.nexuslauncher:75731c77: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:26:01.841 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:26:01.843 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:26:01.845   831  1821 I ImeTracker: system_server:c65efa3e: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:26:01.849   831   870 I ImeTracker: system_server:c65efa3e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:26:01.849  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.849  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... .......D 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.855 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:26:01.858 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:26:01.891  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.892  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... .......D 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.927  1299  1313 W System  : A resource failed to call release.
+11-29 18:26:01.927  1299  1313 W System  : A resource failed to call release.
+11-29 18:26:01.927  1299  1313 W System  : A resource failed to call release.
+11-29 18:26:01.933  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.933  1299  1299 D BaseDepthController: setEarlyWakeup: true
+11-29 18:26:01.933  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:01.971  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:01.973  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.012  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.015  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.052  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.052  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.167  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.167  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.243  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.244  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.261  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.262  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.299  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.299  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.327  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.327  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.400  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.401  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.434  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.436  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.500  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.501  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.553  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.554  1299  1299 D BaseDepthController: setEarlyWakeup: false
+11-29 18:26:02.555  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ........ 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ........ 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.715  1299  1299 D ScalingWorkspaceRevealAnim: onAnimationEnd, workspace and hotseat are visible
+11-29 18:26:02.715  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3110)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:02.715  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... ......ID 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... ......ID 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:02.724 26623 26623 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:26:02.734   831  1104 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+11-29 18:26:02.737 26678 26678 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:26:02.765 26678 26678 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:26:02.808 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: STOPPED
+11-29 18:26:02.808 26623 26623 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@49b3b8e
+11-29 18:26:02.809 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:26:02.809 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@49b3b8e in: DESTROYED
+11-29 18:26:02.809 26623 26623 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+11-29 18:26:02.810 26623 26638 I TestRunner: finished: mainActivity_showsEmptyViewWhenNoNotes(com.example.lab6_lab4_rimantek.MainFlowUiTest)

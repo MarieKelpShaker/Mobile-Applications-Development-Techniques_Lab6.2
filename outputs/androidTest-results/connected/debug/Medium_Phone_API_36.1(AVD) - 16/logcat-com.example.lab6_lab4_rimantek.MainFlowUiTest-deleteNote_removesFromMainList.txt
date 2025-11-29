@@ -1,0 +1,235 @@
+11-29 18:26:02.829 26623 26638 I TestRunner: started: deleteNote_removesFromMainList(com.example.lab6_lab4_rimantek.MainFlowUiTest)
+11-29 18:26:02.833 26623 26638 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-29 18:26:02.842   831  1821 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e1fcae27 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:26:02.954  1299  1299 D RecentsView: onTaskRemoved: 98, not handling task stack changes
+11-29 18:26:02.954  1299  1299 D RecentsView: onTaskRemoved: 98, not handling task stack changes
+11-29 18:26:02.954  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:03.138  1299  1299 D RecentsView: onTaskRemoved: 97, not handling task stack changes
+11-29 18:26:03.138  1299  1299 D RecentsView: onTaskRemoved: 97, not handling task stack changes
+11-29 18:26:03.138  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:03.139   654   677 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:26:03.140  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+11-29 18:26:03.140  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+11-29 18:26:03.140  1299  1299 W SplitSelectStateCtor: Missing session instanceIds
+11-29 18:26:03.140  1299  1299 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+11-29 18:26:03.150  1299  1299 D RecentsView: onTaskDisplayChanged: 99, new displayId = 0
+11-29 18:26:03.151  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:03.151  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:03.159 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: PRE_ON_CREATE
+11-29 18:26:03.160 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-29 18:26:03.183 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: CREATED
+11-29 18:26:03.183 26623 26623 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:03.185 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: STARTED
+11-29 18:26:03.186 26623 26623 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:03.189 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: RESUMED
+11-29 18:26:03.190 26623 26623 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:03.215 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@7fff144
+11-29 18:26:03.216 26623 26623 D VRI[MainActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:26:03.237  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:03.237  1299  1299 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+11-29 18:26:03.469   831   867 I ActivityTaskManager: Displayed com.example.lab6_lab4_rimantek/.MainActivity for user 0: +626ms
+11-29 18:26:03.499  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:03.505  1133  1439 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@70ae075
+11-29 18:26:03.539  1299  1299 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:26:03.581   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:a0c7f2a7: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:26:03.585 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:26:03.586 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:26:03.587   831  1821 I ImeTracker: system_server:5a7c1d59: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:26:03.592 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:26:03.593   831   870 I ImeTracker: system_server:5a7c1d59: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:26:03.595 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:26:03.600 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:a0c7f2a7: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:26:03.620  1299  1299 D BaseActivity: Launcher flags updated: [] -[state_started]
+11-29 18:26:03.620  1299  1299 D BaseDepthController: setSurface:
+11-29 18:26:03.620  1299  1299 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+11-29 18:26:03.620  1299  1299 D BaseDepthController: 	mBaseSurface: null
+11-29 18:26:03.620  1299  1299 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+11-29 18:26:03.628  1299  1299 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+11-29 18:26:03.628  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:6)
+11-29 18:26:03.628  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:2)
+11-29 18:26:03.628  1299  1299 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:32)
+11-29 18:26:03.628  1299  1299 D StateManager: onRepeatStateSetAborted - state: Normal
+11-29 18:26:03.634  1299  1299 D ActivityContext: hideKeyboard:
+11-29 18:26:03.634  1299  1299 D ActivityContext: java.lang.Exception
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at com.android.launcher3.views.ActivityContext.hideKeyboard(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:3)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at com.android.launcher3.Launcher.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:17)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at com.android.launcher3.uioverrides.QuickstepLauncher.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:1)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at com.google.android.apps.nexuslauncher.NexusLauncherActivity.onStop(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:1)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.Instrumentation.callActivityOnStop(Instrumentation.java:1757)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.Activity.performStop(Activity.java:9560)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.ActivityThread.callActivityOnStop(ActivityThread.java:6241)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:6221)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.ActivityThread.handleStopActivity(ActivityThread.java:6284)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.servertransaction.StopActivityItem.execute(StopActivityItem.java:43)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2917)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.os.Handler.dispatchMessage(Handler.java:132)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.os.Looper.dispatchMessage(Looper.java:333)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.os.Looper.loopOnce(Looper.java:263)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.os.Looper.loop(Looper.java:367)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at android.app.ActivityThread.main(ActivityThread.java:9227)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at java.lang.reflect.Method.invoke(Native Method)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:566)
+11-29 18:26:03.634  1299  1299 D ActivityContext: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+11-29 18:26:03.634  1299  1299 D ActivityContext: isImeShown: false
+11-29 18:26:03.634  1299  1299 D StatsLog: LAUNCHER_ONSTOP
+11-29 18:26:03.636   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:a7162358: onTimeout at PHASE_CLIENT_ANIMATION_CANCEL
+11-29 18:26:03.637  1299  1299 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+11-29 18:26:03.639  1299  1299 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+11-29 18:26:03.649  1299  1299 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+11-29 18:26:03.698   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:26:04.060 26623 26623 I ViewInteraction: Performing 'load adapter data' action on view view.getId() is <2131231057/com.example.lab6_lab4_rimantek:id/notesListView>
+11-29 18:26:04.083 26623 26623 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view  displaying data matching: is "ToDelete" within adapter view matching: view.getId() is <2131231057/com.example.lab6_lab4_rimantek:id/notesListView>
+11-29 18:26:04.117 26623 26623 I ViewInteraction: Performing 'Handle transition between action bar and action bar context.' action on view view.getRootView() to equal view
+11-29 18:26:04.126 26623 26623 I ViewInteraction: Performing 'single click' action on view (((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getContentDescription() is "More options") or ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getClass().getName() matches: a string ending with "OverflowMenuButton"))
+11-29 18:26:04.181  1133  1206 D ShellBackPreview: Skipping dispatching onBackCancelled. Start was never dispatched.
+11-29 18:26:04.190   831  1095 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:26:04.266 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@f05c2d1
+11-29 18:26:04.934 26623 26623 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() equals string from resource id: <2131755111> [menu_delete_note] value: Delete Note
+11-29 18:26:05.015   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:86dcf10: onTimeout at PHASE_CLIENT_ANIMATION_CANCEL
+11-29 18:26:05.045   831  1095 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:26:05.047   831   927 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e1fcae27 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:26:05.054   654   794 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:26:05.057 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:26:05.059   650   761 D AudioFlinger: mixer(0x728cbd5627d0) throttle end: throttle time(35)
+11-29 18:26:05.100 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: PAUSED
+11-29 18:26:05.100 26623 26623 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:05.201 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: PRE_ON_CREATE
+11-29 18:26:05.201 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:05.211  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:05.216 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: CREATED
+11-29 18:26:05.216 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:05.217 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: STARTED
+11-29 18:26:05.217 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:05.221 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: RESUMED
+11-29 18:26:05.221 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:05.234 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@37d5730
+11-29 18:26:05.237 26623 26623 D VRI[DeleteNoteActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:26:05.297 12373 12437 I ProtoXDBBufferWrapper: ProtoXDBBufferWrapper.flushToStorage():158 Flushed 12 data item(s) to storage.
+11-29 18:26:05.456   831   867 I ActivityTaskManager: Displayed com.example.lab6_lab4_rimantek/.DeleteNoteActivity for user 0: +409ms
+11-29 18:26:05.482 26623 26646 D HWUI    : endAllActiveAnimators on 0x7d7d5a064b70 (MenuPopupWindow$MenuDropDownListView) with handle 0x7d7d0a04bed0
+11-29 18:26:05.587   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:d181b073: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:26:05.591 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:d181b073: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:26:05.591 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:26:05.592   831  1095 I ImeTracker: system_server:d7c21d28: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:26:05.594 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:26:05.594   831   870 I ImeTracker: system_server:d7c21d28: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:26:05.600 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:26:05.603 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:26:05.683   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+11-29 18:26:05.684   831  1023 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+11-29 18:26:05.684   831  1023 D InetDiagMessage: Destroyed live tcp sockets for uids={10197} in 0ms
+11-29 18:26:05.982 26623 26623 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:26:06.025 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: STOPPED
+11-29 18:26:06.025 26623 26623 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:06.133 26623 26623 I ViewInteraction: Performing 'load adapter data' action on view view.getId() is <2131230870/com.example.lab6_lab4_rimantek:id/deleteListView>
+11-29 18:26:06.173 26623 26623 I ViewInteraction: Performing 'single click' action on view  displaying data matching: is "ToDelete" within adapter view matching: view.getId() is <2131230870/com.example.lab6_lab4_rimantek:id/deleteListView>
+11-29 18:26:06.320   831  1459 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:26:06.373   650   761 D AudioFlinger: mixer(0x728cbd5627d0) throttle end: throttle time(14)
+11-29 18:26:06.618 26623 26623 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230869/com.example.lab6_lab4_rimantek:id/deleteButton>
+11-29 18:26:06.667   831   927 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-29 18:26:06.706   831  1016 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+11-29 18:26:07.121  1753  1753 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-29 18:26:07.206 26623 26623 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+11-29 18:26:07.213 12373 12373 I StylusModule: StylusModule.onUpdateToolType():799 Update tool type = 0
+11-29 18:26:07.228   654   677 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:26:07.234  1133  1240 I QuickAccessWalletTile: QAW service is unavailable, recreating the wallet client.
+11-29 18:26:07.237 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: PAUSED
+11-29 18:26:07.237 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:07.262 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: RESTARTED
+11-29 18:26:07.262 26623 26623 V ActivityScenario: Update currentActivityStage to RESTARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:07.265 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: STARTED
+11-29 18:26:07.265 26623 26623 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:07.266 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: RESUMED
+11-29 18:26:07.266 26623 26623 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:07.345  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:07.531   603   603 I RanchuHwc: logCompositionFallbackIfChanged: layer 693 CompositionType fallback from 2 to 1
+11-29 18:26:07.563   831   981 I ImeTracker: com.example.lab6_lab4_rimantek:c349c87b: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:26:07.566 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:26:07.567 26623 26623 I ImeTracker: com.example.lab6_lab4_rimantek:c349c87b: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+11-29 18:26:07.570 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:26:07.573   831  1096 I ImeTracker: system_server:6499fd04: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:26:07.574 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lab6_lab4_rimantek, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:26:07.578   831   870 I ImeTracker: system_server:6499fd04: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-29 18:26:07.586 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:26:08.039 26623 26623 D VRI[DeleteNoteActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:26:08.094 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: STOPPED
+11-29 18:26:08.095 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:08.096 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:26:08.097 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a in: DESTROYED
+11-29 18:26:08.097 26623 26623 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lab6_lab4_rimantek/.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.lab6_lab4_rimantek/.DeleteNoteActivity }, activity=com.example.lab6_lab4_rimantek.DeleteNoteActivity@2c7837a
+11-29 18:26:08.099 26623 26623 D ViewRootImpl: Skipping stats log for color mode
+11-29 18:26:08.105 26623 26623 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=view has effective visibility <VISIBLE>}' assertion on view view.getId() is <2131230905/com.example.lab6_lab4_rimantek:id/emptyView>
+11-29 18:26:08.113  1133  1240 D ControlsListingControllerImpl: Subscribing callback, service count: 0
+11-29 18:26:08.116   831  1821 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@e3b186c6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-29 18:26:08.140 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: PAUSED
+11-29 18:26:08.140 26623 26623 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:08.146  1299  1299 D RecentsView: onTaskDisplayChanged: 100, new displayId = 0
+11-29 18:26:08.152   654   676 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:26:08.155  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:08.156  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:08.163 26678 26692 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+11-29 18:26:08.164 26678 26692 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+11-29 18:26:08.197 26678 26692 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-29 18:26:08.197 26678 26692 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-29 18:26:08.198  1133  1240 D ControlsListingControllerImpl: Unsubscribing callback
+11-29 18:26:08.279  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:08.304 26623 26630 W System  : A resource failed to call release.
+11-29 18:26:08.304 26623 26630 W System  : A resource failed to call release.
+11-29 18:26:08.653  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:08.654   654  1390 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+11-29 18:26:08.670 26678 26678 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@626b61c
+11-29 18:26:08.674 26678 26678 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+11-29 18:26:08.678  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:08.705  1299  1313 W System  : A resource failed to call release.
+11-29 18:26:08.705  1299  1313 W System  : A resource failed to call release.
+11-29 18:26:08.705  1299  1313 W System  : A resource failed to call release.
+11-29 18:26:08.931  1299  1299 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+11-29 18:26:08.931  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+11-29 18:26:08.940  1299  1299 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+11-29 18:26:08.984  1299  1299 D BaseDepthController: setSurface:
+11-29 18:26:08.984  1299  1299 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+11-29 18:26:08.984  1299  1299 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3172)/@0x1ef6e8e
+11-29 18:26:08.984  1299  1299 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3172)/@0x1ef6e8e applyImmediately: false
+11-29 18:26:08.985  1299  1299 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{67586af V.ED..... .......D 0,0-1080,2400 #7f0a049a app:id/workspace}, com.android.launcher3.Hotseat{96ddabc V.ED..... .......D 0,1905-1080,2400 #7f0a01ed app:id/hotseat}]
+11-29 18:26:08.987  1133  1439 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@70ae075
+11-29 18:26:09.009 26623 26623 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-29 18:26:09.206  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+11-29 18:26:09.209  1299  1299 D StatsLog: LAUNCHER_ONRESUME
+11-29 18:26:09.218  1299  1299 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+11-29 18:26:09.224  1299  1349 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+11-29 18:26:09.231  1664  1874 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+11-29 18:26:09.233  1664  1874 I AiAiEcho: EchoTargets:
+11-29 18:26:09.233  1664  1874 I AiAiEcho: Filtered by AiAi flag check:
+11-29 18:26:09.233  1664  1874 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+11-29 18:26:09.237  1664  1874 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+11-29 18:26:09.253  1664  1874 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+11-29 18:26:09.267  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:09.267  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:09.267  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:09.267  1299  1299 D SsBaseTemplateCard: Passed-in item info is null
+11-29 18:26:09.267  1299  1299 I SsBaseTemplateCard: Secondary card pane is null
+11-29 18:26:09.276  1299  1299 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+11-29 18:26:09.276  1299  1299 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:20)
+11-29 18:26:09.276  1299  1299 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:11)
+11-29 18:26:09.276  1299  1299 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f71359c1d0b85a0dd17763d555661201cd80030d766df1ac8ddda60516fd4cfd:105)
+11-29 18:26:09.276  1299  1299 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+11-29 18:26:09.278  1299  1299 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+11-29 18:26:09.279  1299  1299 D b/311077782: LauncherAnimationRunner.setAnimation
+11-29 18:26:09.339  1753  1753 D BoundBrokerSvc: onUnbind: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+11-29 18:26:09.423  1299  1299 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+11-29 18:26:09.483   831   981 I ImeTracker: com.google.android.apps.nexuslauncher:8ba7a5e4: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-29 18:26:09.496 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2084
+11-29 18:26:09.498   831  1095 I ImeTracker: system_server:5211319e: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+11-29 18:26:09.501 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+11-29 18:26:09.507 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: STOPPED
+11-29 18:26:09.507 26623 26623 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.lab6_lab4_rimantek.MainActivity@3137750
+11-29 18:26:09.508 12373 12373 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1345 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-29 18:26:09.508 26623 26623 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+11-29 18:26:09.509 26623 26623 D LifecycleMonitor: Lifecycle status change: com.example.lab6_lab4_rimantek.MainActivity@3137750 in: DESTROYED
+11-29 18:26:09.509 26623 26623 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+11-29 18:26:09.511 12373 12373 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+11-29 18:26:09.511 26623 26638 I TestRunner: finished: deleteNote_removesFromMainList(com.example.lab6_lab4_rimantek.MainFlowUiTest)
